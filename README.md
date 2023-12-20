@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charanjeet Bhatia</h1>
-<h3 align="center">Versatile Java Developer, Frontend Developer and with Proficiency in Node.js & Express for Backend Development</h3>
+<h3 align="center">Versatile Java Developer, Frontend Developer with Proficiency in Node.js & Express for Backend Development</h3>
 
 - 🌱 I’m currently learning **MERN**
 
